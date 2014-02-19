@@ -1,0 +1,36 @@
+* {
+  background-color: #F5F5DC;
+}
+
+.Title {
+  color: #F4A460;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+  text-align: center;
+  font-family: Arial bold;
+  font-size: 45px;
+}
+
+.Description {
+  font-family: Arial;
+  font-size: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  text-align: center;
+}
+
+.button {
+  border-color: black;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 5px;
+  background-color: #5F9EA0;
+  font-family: Arial bold;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+  text-align: center;
+  color: white
+  }
