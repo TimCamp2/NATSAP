@@ -3,7 +3,6 @@
 }
 
 .Title {
-  color: ;
   margin-left: auto;
   margin-right: auto;
   width: 65%;
@@ -27,7 +26,7 @@
   border-width: 2px;
   border-style: solid;
   border-radius: 4px;
-  background-color: #7AC5CD;
+  background-color: #528B8B;
   font-family: Arial bold;
   margin-left: auto;
   margin-right: auto;
@@ -43,7 +42,7 @@
   border-width: 2px;
   border-style: solid;
   border-radius: 4px;
-  background-color: #53868B;
+  background-color: #2F4F4F;
   font-family: Arial bold;
   margin-left: auto;
   margin-right: auto;
@@ -54,6 +53,12 @@
 
 .pic {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
+  text-align:center;
+}
+
+#line {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
 }
