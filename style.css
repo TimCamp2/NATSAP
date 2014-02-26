@@ -50,5 +50,10 @@
   width: 90px;
   text-align: center;
   color: white
-  }
+}
+
+.pic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
