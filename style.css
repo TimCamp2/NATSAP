@@ -3,7 +3,6 @@
 }
 
 .Title {
-  color: ;
   margin-left: auto;
   margin-right: auto;
   width: 65%;
@@ -23,32 +22,48 @@
 
 .button {
   display: block;
-  border-color: black;
+  width: 100px;
+  height: 25px;
+  line-height: 25px;
   border-width: 2px;
   border-style: solid;
-  border-radius: 4px;
-  background-color: #7AC5CD;
+  border-radius: 5px;
+  background-color: #528B8B;
   font-family: Arial bold;
   margin-left: auto;
   margin-right: auto;
-  width: 90px;
   text-decoration: none;
   text-align: center;
+  vertical-align: middle;
   color: white
   }
 
 .hover {
   display: block;
-  border-color: black;
+  width: 100px;
+  height: 25px;
+  line-height: 25px;
   border-width: 2px;
   border-style: solid;
-  border-radius: 4px;
-  background-color: #53868B;
+  border-radius: 5px;
+  background-color: #2F4F4F;
   font-family: Arial bold;
   margin-left: auto;
   margin-right: auto;
-  width: 90px;
   text-align: center;
   color: white
-  }
+}
+
+.pic {
+  display: block;
+  margin: 0 auto;
+  text-align:center;
+}
+
+#line {
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    margin-left: 10%;
+    margin-right: 10%;
 }
